@@ -1,4 +1,4 @@
-## macOS Dev Setup Guide
+# macOS Dev Setup Guide
 
 [![Profile Updated](https://img.shields.io/github/last-commit/ew2664/macos-dev-setup-guide?label=last%20updated&style=flat)](https://github.com/ew2664/macos-dev-setup-guide)
 
