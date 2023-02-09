@@ -8,12 +8,12 @@ I really enjoy this process—there's something therapeutic about a [hard reset]
 
 This guide started as a sloppy list on a Word document sitting on my desktop that I touched up once a year, until the summer of 2022 when I moved it onto a personal Notion page for easier access. Then some friends starting asked me to share the page with them, which led me to think, perhaps more people can benefit from this. I know there's a ton of these setup guides out there, but just maybe, my take on the "best macOS dev setup" can end up being of use to someone. So if you're that someone, here you go!
 
-#### A few notes on the guide ...
+### A few notes on the guide ...
 
 I own a [2017 15-inch MacBook Pro](https://support.apple.com/kb/SP756?locale=en_US) currently running [macOS Ventura](https://www.apple.com/macos/ventura/), and this guide will be primarily based on my setup. I imagine that some of the software I install or configurations I use may have compatibility issues with the newer M1 or M2 Macbooks, so you may need to do a bit of your own research in that regard.
 
 I also don't actively maintain this guide. Major updates will probably happen once a year when I do my annual reset, with minor fixes or additions sprinkled in between. So not everything on here will be the most up-to-date.
 
-#### Step-by-step instructions
+### Step-by-step instructions
 
 1. [Reformatting your MacBook Pro](./instructions/reformat.md)
