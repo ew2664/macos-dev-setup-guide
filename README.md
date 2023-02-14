@@ -18,4 +18,5 @@ I also don't actively maintain this guide. Major updates will probably happen on
 
 ### Step-by-step instructions
 
-1. [Reformatting your MacBook Pro](./instructions/reformat.md)
+1. [Reformatting your MacBook Pro](./guides/reformat.md)
+2. [Configuring system settings](./guides/system-settings.md)
