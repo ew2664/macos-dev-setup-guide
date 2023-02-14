@@ -1,5 +1,6 @@
 # macOS Dev Setup Guide
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Few2664.github.io%2Fmacos-dev-setup-guide%2F&label=Visitors&labelColor=%23d9e3f0&countColor=%2337d67a&style=flat)
 [![Profile Updated](https://img.shields.io/github/last-commit/ew2664/macos-dev-setup-guide?label=last%20updated&style=flat)](https://github.com/ew2664/macos-dev-setup-guide)
 
 I have this fun annual ritual: every year, I [purge my laptop](https://www.wired.com/story/how-to-factory-reset-mac-windows-chromebook/) and set it back up from factory settings. This might sound a bit excessive—honestly, I'm pretty sure this isn't officially recommended. But as a student and growing software developer, I find myself constantly working with new tools. Most of the time I don't set them up the right or best way on the first try, and layers upon layers of clutter start accumulating on my machine. This is a simple, half-decent albeit brutish way I've found for getting rid of that clutter.
