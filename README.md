@@ -20,3 +20,4 @@ I also don't actively maintain this guide. Major updates will probably happen on
 
 1. [Reformatting your MacBook Pro](./guides/reformat.md)
 2. [Configuring system settings](./guides/system-settings.md)
+3. [Setting up your macOS command line](./guides/command-line.md)
