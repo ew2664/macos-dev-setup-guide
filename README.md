@@ -16,6 +16,8 @@ I own a [2017 15-inch MacBook Pro](https://support.apple.com/kb/SP756?locale=en_
 
 I also don't actively maintain this guide. Major updates will probably happen once a year when I do my annual reset, with minor fixes or additions sprinkled in between. So not everything on here will be the most up-to-date. Again, you may need to do a bit of your own research.
 
+If you have any suggestions or spot any errors, please raise an issue and I'll try to make an update as soon as I can!
+
 ### Step-by-step instructions
 
 1. [Reformatting your MacBook Pro](./guides/reformat.md)
